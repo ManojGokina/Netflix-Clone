@@ -21,7 +21,7 @@ const Nav = () => {
 
          <div className="nav__contents">
          <img className="netflix_logo" src="https://flyclipart.com/thumb2/netflix-logo-png-transparent-image-png-arts-82874.png" alt="logo" />
-         <img className="netflix_avatar" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png"/>
+         <img className="netflix_avatar" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="avatarLogo"/>
         </div>
        
     </div>
