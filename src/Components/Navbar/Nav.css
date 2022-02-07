@@ -18,15 +18,15 @@
 .netflix_logo{
     position: fixed;
     left: 0;
-    width: 60px;
+    width: 65px;
     object-fit: contain;
-    padding-left: 20px;
+    padding-left: 40px;
     cursor: pointer;
 }
 .netflix_avatar{
     position: fixed;
     cursor: pointer;
-    right: 20px;
-    width: 40px;
-    height: 40px;
+    right: 40px;
+    width: 30px;
+    height: 30px;
 }
