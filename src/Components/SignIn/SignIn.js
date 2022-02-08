@@ -1,6 +1,6 @@
 import React , {useRef} from 'react';
 import './SignIn.css';
-import { auth } from '../../firebase';
+// import { auth } from '../../firebase';
 
 const SignIn = () => {
       
