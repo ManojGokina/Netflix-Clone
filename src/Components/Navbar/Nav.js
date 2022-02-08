@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import "./Nav.css";
 
 const Nav = () => {
@@ -21,8 +22,11 @@ const Nav = () => {
 
          <div className="nav__contents">
          <img className="netflix_logo" src="https://cdn.iphoneincanada.ca/wp-content/uploads/2021/11/Netflix.jpeg" alt="logo" />
+         <Link to="/login">
          <img className="netflix_avatar" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="avatarLogo"/>
-        </div>
+        
+         </Link>
+         </div>
        
     </div>
   );
